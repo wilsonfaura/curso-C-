@@ -1,0 +1,11 @@
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.exe
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.deps.json
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.runtimeconfig.json
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.dll
+C:\Users\wilso\source\repos\constantes\bin\Debug\netcoreapp3.1\constantes.pdb
+C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.AssemblyInfo.cs
+C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.dll
+C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.pdb

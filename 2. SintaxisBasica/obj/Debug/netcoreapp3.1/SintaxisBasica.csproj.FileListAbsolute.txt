@@ -1,0 +1,25 @@
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.exe
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.deps.json
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.json
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\wilso\source\repos\SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\wilso\source\repos\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfo.cs
+C:\Users\wilso\source\repos\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\wilso\source\repos\SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.exe
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.deps.json
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.json
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.runtimeconfig.dev.json
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\Wilson\source\repos\2. SintaxisBasica\bin\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.dll
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.pdb
+C:\Users\Wilson\source\repos\2. SintaxisBasica\obj\Debug\netcoreapp3.1\SintaxisBasica.genruntimeconfig.cache
