@@ -9,3 +9,17 @@ C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.Assemb
 C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.AssemblyInfo.cs
 C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.dll
 C:\Users\wilso\source\repos\constantes\obj\Debug\netcoreapp3.1\constantes.pdb
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.exe
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.deps.json
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.runtimeconfig.json
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.runtimeconfig.dev.json
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.dll
+C:\Users\Wilson\source\repos\3. Constantes\bin\Debug\netcoreapp3.1\constantes.pdb
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.dll
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.pdb
+C:\Users\Wilson\source\repos\3. Constantes\obj\Debug\netcoreapp3.1\constantes.genruntimeconfig.cache
