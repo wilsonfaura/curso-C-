@@ -1,0 +1,15 @@
+C:\Users\Wilson\source\repos\CondicionalSwitch\bin\Debug\net6.0\CondicionalSwitch.exe
+C:\Users\Wilson\source\repos\CondicionalSwitch\bin\Debug\net6.0\CondicionalSwitch.deps.json
+C:\Users\Wilson\source\repos\CondicionalSwitch\bin\Debug\net6.0\CondicionalSwitch.runtimeconfig.json
+C:\Users\Wilson\source\repos\CondicionalSwitch\bin\Debug\net6.0\CondicionalSwitch.dll
+C:\Users\Wilson\source\repos\CondicionalSwitch\bin\Debug\net6.0\CondicionalSwitch.pdb
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.dll
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\refint\CondicionalSwitch.dll
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.pdb
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\CondicionalSwitch.genruntimeconfig.cache
+C:\Users\Wilson\source\repos\CondicionalSwitch\obj\Debug\net6.0\ref\CondicionalSwitch.dll

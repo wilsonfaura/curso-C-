@@ -1,0 +1,15 @@
+C:\Users\Wilson\source\repos\BucleDoWhile\bin\Debug\net6.0\BucleDoWhile.exe
+C:\Users\Wilson\source\repos\BucleDoWhile\bin\Debug\net6.0\BucleDoWhile.deps.json
+C:\Users\Wilson\source\repos\BucleDoWhile\bin\Debug\net6.0\BucleDoWhile.runtimeconfig.json
+C:\Users\Wilson\source\repos\BucleDoWhile\bin\Debug\net6.0\BucleDoWhile.dll
+C:\Users\Wilson\source\repos\BucleDoWhile\bin\Debug\net6.0\BucleDoWhile.pdb
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.dll
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\refint\BucleDoWhile.dll
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.pdb
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\BucleDoWhile.genruntimeconfig.cache
+C:\Users\Wilson\source\repos\BucleDoWhile\obj\Debug\net6.0\ref\BucleDoWhile.dll
