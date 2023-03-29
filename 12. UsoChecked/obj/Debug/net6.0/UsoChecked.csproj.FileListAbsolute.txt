@@ -1,0 +1,15 @@
+C:\Users\Wilson\source\repos\UsoChecked\bin\Debug\net6.0\UsoChecked.exe
+C:\Users\Wilson\source\repos\UsoChecked\bin\Debug\net6.0\UsoChecked.deps.json
+C:\Users\Wilson\source\repos\UsoChecked\bin\Debug\net6.0\UsoChecked.runtimeconfig.json
+C:\Users\Wilson\source\repos\UsoChecked\bin\Debug\net6.0\UsoChecked.dll
+C:\Users\Wilson\source\repos\UsoChecked\bin\Debug\net6.0\UsoChecked.pdb
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.csproj.AssemblyReference.cache
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.AssemblyInfoInputs.cache
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.AssemblyInfo.cs
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.csproj.CoreCompileInputs.cache
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.dll
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\refint\UsoChecked.dll
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.pdb
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\UsoChecked.genruntimeconfig.cache
+C:\Users\Wilson\source\repos\UsoChecked\obj\Debug\net6.0\ref\UsoChecked.dll
